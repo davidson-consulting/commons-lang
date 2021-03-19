@@ -26,6 +26,55 @@ import org.powerapi.jjoules.junit5.EnergyTest;
 public class ArraySorterTest {
 
     @EnergyTest
+    public void aaawarmup0() {
+        System.out.println("aaawarmup");
+    }
+    
+    @EnergyTest
+    public void aaawarmup1() {
+        System.out.println("aaawarmup");
+    }
+    
+    @EnergyTest
+    public void aaawarmup2() {
+        System.out.println("aaawarmup");
+    }
+    
+    @EnergyTest
+    public void aaawarmup3() {
+        System.out.println("aaawarmup");
+    }
+
+    @EnergyTest
+    public void aaawarmup4() {
+        System.out.println("aaawarmup");
+    }
+
+    @EnergyTest
+    public void aaawarmup5() {
+        System.out.println("aaawarmup");
+    }
+
+    @EnergyTest
+    public void aaawarmup6() {
+        System.out.println("aaawarmup");
+    }
+
+    @EnergyTest
+    public void aaawarmup7() {
+    }
+
+    @EnergyTest
+    public void aaawarmup8() {
+        System.out.println("aaawarmup");
+    }
+
+    @EnergyTest
+    public void aaawarmup9() {
+        System.out.println("aaawarmup");
+    }
+
+    @EnergyTest
     public void testSortByteArray() {
         final byte[] array1 = {2, 1};
         final byte[] array2 = array1.clone();
