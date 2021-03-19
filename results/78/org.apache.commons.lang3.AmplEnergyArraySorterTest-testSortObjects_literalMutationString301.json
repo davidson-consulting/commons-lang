@@ -1,0 +1,13 @@
+{
+  "device|mW": 19758,
+  "package-0/dram|uJ": 8828,
+  "package|uJ": 84167,
+  "package-0/dram|mW": 1875,
+  "dram|uJ": 8828,
+  "package-0|uJ": 84167,
+  "device|uJ": 92995,
+  "duration|ns": 4706490,
+  "dram|mW": 1875,
+  "package-0|mW": 17883,
+  "package|mW": 17883
+}
